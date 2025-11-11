@@ -908,4 +908,5 @@ workspace.DescendantAdded:Connect(function(inst)
 	if inst:IsA("Seat") or inst:IsA("VehicleSeat") then
 		bindSeat(inst)
 	end
+
 end)
