@@ -14,7 +14,7 @@ local deflection = 5;
 local torqueAccel = 1000000;
 local MAX_TORQUE = 6000000;
 local MAX_TAIL_TORQUE = 18000;
-local MAX_TAIL_VECTOR_FORCE = 9250;
+local MAX_TAIL_VECTOR_FORCE = 7250;
 local BASE_TORQUE = 100;
 local MAX_TAIL_PITCH = 35;
 
