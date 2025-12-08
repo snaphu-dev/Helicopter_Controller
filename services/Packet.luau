@@ -1,6 +1,3 @@
-
-require(game.StarterPlayer.StarterPlayerScripts.client.services.Input)
-
 local packet = {}
 
 export type inputVals = {
