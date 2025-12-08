@@ -1,4 +1,11 @@
-Will update this later, need to just have it out.
-Basically the new set up is blades go into their rotor container.
-They will also need to have motor6Ds wired up.
-Release on the .rbxm coming soon.
+Init:
+Set workspace fluid forces to experimental. 
+Workspace gravity to 35.
+
+Controls: 
+Yaw - Q, E,
+Pitch - P, ;,
+Roll - l, ',
+Throttle - F, V,
+Cyclic lateral - A, D,
+Cyclic longitudinal - W, S
